@@ -1,0 +1,4 @@
+property:4
+PASS:42
+FAIL:0
+26.12s real, 21.23s user, 4.61s kernel, 213460 mmem

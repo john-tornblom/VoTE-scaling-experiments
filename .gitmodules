@@ -1,0 +1,6 @@
+[submodule "VoTE"]
+	path = VoTE
+	url = https://github.com/john-tornblom/VoTE.git
+[submodule "silva"]
+	path = silva
+	url = https://github.com/abstract-machine-learning/silva.git

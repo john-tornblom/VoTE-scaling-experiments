@@ -1,0 +1,13 @@
+margin:     1
+timeout:    60s
+nb_inputs:  784
+nb_outputs: 10
+nb_trees:   150
+nb_nodes:   304234
+robust:     9967
+fragile:    463
+vulnerable: 21
+break:      49
+timeouts:   68
+runtime:    6793.23s
+6795.33s real, 6424.84s user, 354.15s kernel, 236896 mmem
