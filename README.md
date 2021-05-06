@@ -7,7 +7,7 @@ recognition and aircraft collision avoidance. For more information, see
 
 ## ACAS Xu Case Study
 On Ubuntu-flavored operating systems, you can invoke the following commands to
-install dependencies, generate makefiles, and compile the source code.
+install dependencies, compile the source code, and run the experiments.
 
 ```console
 john@localhost:$ sudo apt-get install autoconf libtool build-essential python-cffi
