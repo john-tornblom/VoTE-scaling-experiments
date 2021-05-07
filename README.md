@@ -38,7 +38,7 @@ john@localhost:$ cat mnist/T60.GB.csv
 ```
 
 [vote]: https://github.com/john-tornblom/VoTE
-[paper]: https://github.com/john-tornblom/VoTE
+[paper]: https://arxiv.org/pdf/2105.02595
 [slurm]: https://slurm.schedmd.com
 
 
